@@ -1,11 +1,11 @@
-# SonicScout private beta downloads
+# SonicScout beta downloads
 
-This private repository contains installer releases and testing instructions only. SonicScout and AudioEngine source repositories remain separate.
+This public repository contains installers and testing instructions only. The SonicScout and AudioEngine source-code repositories remain private.
 
-## Download
+## Download without signing in
 
-[SonicScout local.5 private beta](https://github.com/SensoredRooster/SonicScout-Private-Beta/releases/tag/v2.0.0-beta.7-local.5)
+[Download SonicScout local.5 installer](https://github.com/SensoredRooster/SonicScout-Private-Beta/releases/download/v2.0.0-beta.7-local.5/SonicScout-Setup.exe)
 
-Open the release and download SonicScout-Setup.exe from Assets. TESTER-START-HERE.txt describes installation, testing and the build's current qualification limits. SHA256SUMS.txt identifies the exact uploaded installer.
+[Release notes and tester instructions](https://github.com/SensoredRooster/SonicScout-Private-Beta/releases/tag/v2.0.0-beta.7-local.5)
 
-You must sign in to GitHub and accept the owner's invitation before private download links work. Ask the owner for access; do not redistribute the installer outside the invited group.
+No GitHub account or invitation is required. Anyone can access these public downloads. This is an experimental beta; see the release notes for installation instructions, test coverage and remaining qualification limits. SHA256SUMS.txt identifies the installer.
